@@ -31,12 +31,12 @@ The **second script** (_RPG::Sprite (Ace Style)_) is a little extension. It brin
 
 Normal damage font and color change
 
-![Normal screen](../RPG-Sprite/rpg_sprite_screen1.png)
+![Normal screen](rpg_sprite_screen1.png)
 
 Critical damage text, font and color change
 
-![Critical screen](../RPG-Sprite/rpg_sprite_screen2.png)
+![Critical screen](rpg_sprite_screen2.png)
 
 Boss collapse effect from VX Ace
 
-![Boss collapse](../RPG-Sprite/rpg_sprite_screen3.png)
+![Boss collapse](rpg_sprite_screen3.png)
